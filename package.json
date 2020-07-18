@@ -1,0 +1,21 @@
+{
+  "name": "cordova-hl-toast",
+  "version": "1.0.0",
+  "description": "toast",
+  "cordova": {
+    "id": "hulafo.toast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "hulafo"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
